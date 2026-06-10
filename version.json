@@ -2,6 +2,6 @@
   "version": "1.0.1",
   "date": "2026-06-10",
   "changes": "Correction intro au démarrage • Fenêtre agrandie (1920×1020) • Sync artistes/abonnements après reconnexion • Protection du code renforcée • Réglages app Electron",
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/Apnkk/z-music-app/releases/download/v1.0.1/Z-MUSIC-Setup-1.0.1.exe",
   "mandatory": false
 }
