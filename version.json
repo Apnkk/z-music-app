@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "date": "2026-06-10",
+  "changes": "Correction intro au démarrage • Fenêtre agrandie (1920×1020) • Sync artistes/abonnements après reconnexion • Protection du code renforcée • Réglages app Electron",
+  "downloadUrl": "",
+  "mandatory": false
+}
