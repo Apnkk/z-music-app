@@ -2,6 +2,6 @@
   "version": "1.0.1",
   "date": "2026-06-11",
   "changes": "Téléchargement hors-ligne • Playlists + titres likés • Meilleure qualité audio (yt-dlp) • Paroles incluses • Lecture locale sans internet",
-  "downloadUrl": "https://github.com/Apnkk/z-music-app/releases/latest/download/Z-MUSIC-Setup-1.2.0.exe",
+  "downloadUrl": "https://github.com/Apnkk/z-music-app/releases/latest/download/Z-MUSIC-Setup-1.0.1.exe",
   "mandatory": false
 }
