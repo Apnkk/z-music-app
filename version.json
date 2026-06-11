@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "date": "2026-06-11",
-  "changes": "Fix téléchargements — ffmpeg inclus automatiquement dans l'installateur",
-  "downloadUrl": "https://github.com/Apnkk/z-music-app/releases/latest/download/Z-MUSIC-Setup-1.2.1.exe",
+  "version": "1.3.0",
+  "date": "2026-06-12",
+  "changes": "Téléchargements hors-ligne fiabilisés • Paroles incluses avec chaque titre • Lecture locale optimisée • Stabilité générale",
+  "downloadUrl": "https://github.com/Apnkk/z-music-app/releases/latest/download/Z-MUSIC-Setup-1.3.0.exe",
   "mandatory": false
 }
