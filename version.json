@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "date": "2026-06-10",
-  "changes": "Correction intro au démarrage • Fenêtre agrandie (1920×1020) • Sync artistes/abonnements après reconnexion • Protection du code renforcée • Réglages app Electron",
-  "downloadUrl": "https://github.com/Apnkk/z-music-app/releases/download/v1.0.1/Z-MUSIC-Setup-1.0.1.exe",
+  "version": "1.2.0",
+  "date": "2026-06-11",
+  "changes": "Téléchargement hors-ligne • Playlists + titres likés • Meilleure qualité audio (yt-dlp) • Paroles incluses • Lecture locale sans internet",
+  "downloadUrl": "https://github.com/Apnkk/z-music-app/releases/latest/download/Z-MUSIC-Setup-1.2.0.exe",
   "mandatory": false
 }
